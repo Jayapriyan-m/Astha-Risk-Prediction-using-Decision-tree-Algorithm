@@ -59,9 +59,9 @@ In this project, we presented an asthma risk prediction tool based on a convolut
 
 
 
-Jayapriyan.M
-BE-CSE Student
-Email : jayapriyan11802@gmail.com
+Jayapriyan.M     
+BE-CSE Student   
+Email : jayapriyan11802@gmail.com    
 Phone : 7868932481 
 
 
