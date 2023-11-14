@@ -57,11 +57,11 @@ In this project, we presented an asthma risk prediction tool based on a convolut
 
 ## CONTACT
 
-Feel free to ping me 
 
-phone : 7868932481
-gmail : jayapriyan11802@gmail.com
 
- 
+Jayapriyan.M
+BE-CSE Student
+Email : jayapriyan11802@gmail.com
+Phone : 7868932481 
 
 
